@@ -9,7 +9,7 @@
 
 ✈️ <i>Just love traveling and coffee</i> ☕️
 
-😆 <i>Sometimes, I wish there was a "ctrl+z" shortcut in real life (e.g., if your favorite mug broke, you can just press "ctrl+z" to fix it)</i>
+😆 <i>Sometimes, I wish there was a "ctrl+z" shortcut in real life (e.g., if your favorite mug broken, you can just press "ctrl+z" to fix it)</i>
 
 ## Projects
 ⭐ Website for a real estate agency: [Union of Builders](https://helen1553.github.io/fe91_project2_group1/)
