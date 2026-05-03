@@ -16,6 +16,8 @@
 
 ⭐ A one-page landing about a company that provides pet care services: [PetHome](https://helen1553.github.io/testTaskProject/)
 
+⭐ A business card website for promoting digital cards for purchases abroad: [Card](https://github.com/Helen1553/easyCard)
+
 ⭐ The website where you can buy plants: [Planty's](https://github.com/Helen1553/fe96_js_g1)
 
 ⭐ Site template for a real estate company, based on Figma design: [Realco](https://github.com/Helen1553/fe91_project1_group2)
